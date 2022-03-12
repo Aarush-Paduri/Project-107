@@ -1,0 +1,40 @@
+body {
+    background-color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.header_div {
+    color: burlywood;
+    background-color: lightgray;
+}
+
+.header_div p{
+    color: gray;
+    letter-spacing: 2px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.main_div {
+    background-color: lightgreen;
+}
+
+.main_div button{
+    margin-top: 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    width: 160px;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer {
+    background-color: lightcyan;
+    color:blue;
+    bottom: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-shadow: 3px 3px 3px rgb(0, 0, 0);
+    font-size: 30px;
+    width: 100%;
+    padding-bottom: 40px;
+}
